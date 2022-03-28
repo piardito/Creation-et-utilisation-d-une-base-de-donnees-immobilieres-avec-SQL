@@ -1,1 +1,1 @@
-# Création et utilisation d'une base de données immobiliere avec SQL
+# Création et utilisation d'une base de données immobilière avec SQL
